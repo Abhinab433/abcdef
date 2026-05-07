@@ -1,9 +1,9 @@
 # KANUN
 
-##Description
+## Description
 This is an archieved .rar file of a Kanun Project. It is a Retrieval Augmented Generation Based LLM Application for processing constitution of Nepal and resolving queries. It uses Langchain Framework built upon Django Framework as backend.
 
-##List of Python pagackes required for running the project are:
+## List of Python pagackes required for running the project are:
 ```
 aiohappyeyeballs==2.4.4
 aiohttp==3.10.11
